@@ -1,7 +1,7 @@
 Dynamic Heat Map
 ===
 
-Analyzed accident frequency around Cambridge by building a dynamic heat map of accidents. Generated heat map allows to quickly visualize when certain types of accidents are most likely to occur. The data visualization displays the safest and dangerous time to travel around the city. 
+Analyzed accident frequency for the city of Cambridge by building a dynamic heat map of accidents. Generated heat map allows to quickly visualize when certain types of accidents are most likely to occur. The data visualization displays the safest and dangerous time to travel around the city. 
 
 Prerequisites
 ---
@@ -22,4 +22,4 @@ Output
 
 Built With
 ===
-•	[Power Map](https://www.microsoft.com/en-us/download/details.aspx?id=38395) - 3D visualization tool to plot geographic data
+•	[Power Map](https://support.office.com/en-us/article/Get-started-with-Power-Map-88a28df6-8258-40aa-b5cc-577873fb0f4a) - 3D visualization tool to plot geographic data
